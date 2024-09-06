@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|c:\\users\\seyfi\\source\\repos\\movieapp\\movieapp.web\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|solutionrelative:movieapp.web\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|c:\\users\\seyfi\\source\\repos\\movieapp\\movieapp.web\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|solutionrelative:movieapp.web\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|c:\\users\\seyfi\\source\\repos\\movieapp\\movieapp.web\\data\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|solutionrelative:movieapp.web\\data\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|c:\\users\\seyfi\\source\\repos\\movieapp\\movieapp.web\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9AB733-4FD7-4EED-BF13-E8815D728406}|MovieApp.Web\\MovieApp.Web.csproj|solutionrelative:movieapp.web\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Entity\\Person.cs",
+              "RelativeDocumentMoniker": "MovieApp.Web\\Entity\\Person.cs",
+              "ToolTip": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Entity\\Person.cs",
+              "RelativeToolTip": "MovieApp.Web\\Entity\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:18:52.168Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Data\\MovieContext.cs",
+              "RelativeDocumentMoniker": "MovieApp.Web\\Data\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Data\\MovieContext.cs",
+              "RelativeToolTip": "MovieApp.Web\\Data\\MovieContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA7wBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:37:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Data\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "MovieApp.Web\\Data\\DataSeeding.cs",
+              "ToolTip": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Data\\DataSeeding.cs",
+              "RelativeToolTip": "MovieApp.Web\\Data\\DataSeeding.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:54:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "MovieApp.Web\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Entity\\User.cs",
+              "RelativeToolTip": "MovieApp.Web\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:24:57.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

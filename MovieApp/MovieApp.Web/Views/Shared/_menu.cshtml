@@ -1,0 +1,8 @@
+﻿@model List<Genre>
+<div class="list-group">
+    @foreach(var genre in Model)
+    {
+        <button type="button" class="list-group-item list-group-item-action" disabled>@genre.Name</button>
+
+    }
+</div>
