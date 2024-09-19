@@ -51,8 +51,7 @@
               "RelativeToolTip": "MovieApp.Web\\Data\\MovieContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAIA7wBAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T11:37:59.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T11:37:59.386Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "MovieApp.Web\\Data\\DataSeeding.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T09:54:02.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T09:54:02.877Z"
             },
             {
               "$type": "Document",
@@ -75,7 +73,7 @@
               "RelativeDocumentMoniker": "MovieApp.Web\\Entity\\User.cs",
               "ToolTip": "C:\\Users\\Seyfi\\source\\repos\\MovieApp\\MovieApp.Web\\Entity\\User.cs",
               "RelativeToolTip": "MovieApp.Web\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T11:24:57.308Z",
               "EditorCaption": ""
