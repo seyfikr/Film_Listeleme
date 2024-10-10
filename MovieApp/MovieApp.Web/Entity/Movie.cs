@@ -7,6 +7,10 @@ namespace MovieApp.Web.Entity
 {
     public class Movie
     {
+        public Movie()
+        {
+            Genres = new List<Genre>();
+        }
         public int MovieId { get; set; }
         //[DisplayName("baslik")]
         //[Required(ErrorMessage = "Film Basligi ekleyiniz")]

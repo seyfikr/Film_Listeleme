@@ -1,23 +1,35 @@
 ﻿<nav class="navbar navbar-expand-lg navbar-dark bg-danger">
-    <div class="container">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+	<div class="container">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler">
+			<span class="navbar-toggler-icon"></span>
+		</button>
 
-        <div class="collapse navbar-collapse" id="navbarToggler">
-            <a href="/" class="navbar-brand">MainPage</a>
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item ">
-                    <a href="/movies/list" class="nav-link">Movie List</a>
-                </li>
-                <li class="nav-item ">
-                    <a href="/movies/create" class="nav-link">Movie Create</a>
-                </li>
-            </ul>
-            <form action="movies/list" method="get" class="form-inline">
-             <input type="text" name="q" placeholder="Film Ara"class="form-control mr-2" />
-                <button type="submit" btn btn-outline-light mr-0>Bull</button>
-            </form>
-        </div>
-    </div>
+		<div class="collapse navbar-collapse" id="navbarToggler">
+			<a href="/" class="navbar-brand">MainPage</a>
+			<ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+				<li class="nav-item ">
+					<a href="/movies/list" class="nav-link">Movie List</a>
+				</li>
+				<li class="nav-item ">
+					<a href="/admin/moviecreate" class="nav-link">Admin Create Movie</a>
+				</li>
+				<li class="nav-item ">
+					<a href="/admin/movielist" class="nav-link">Admin Movies</a>
+				</li>
+				<li class="nav-item ">
+					<a href="/admin/genrelist" class="nav-link">Admin Genres</a>
+				</li>
+				<li class="nav-item ">
+					<a href="/user/createUser" class="nav-link">create User </a>
+				</li>
+				@* <li class="nav-item ">
+					<a href="/admin/seyfipage" class="nav-link">Seyfi Page</a>
+				</li> *@
+			</ul>
+			<form action="movies/list" method="get" class="d-flex">
+				<input type="text" name="q" placeholder="Film Ara" class="form-control me-2" />
+				<button type="submit" btn btn-outline-light mr-0>Bull</button>
+			</form>
+		</div>
+	</div>
 </nav>

@@ -73,9 +73,7 @@ C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\MovieApp.Web.
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\MovieApp.Web.RazorCoreGenerate.cache
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
-C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Movies\Movies.cshtml.g.cs
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\Genres\Default.cshtml.g.cs
@@ -104,3 +102,12 @@ C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\refint\MovieA
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\MovieApp.Web.pdb
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\MovieApp.Web.genruntimeconfig.cache
 C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\ref\MovieApp.Web.dll
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Admin\MovieList.cshtml.g.cs
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Admin\MovieUpdate.cshtml.g.cs
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Admin\GenreList.cshtml.g.cs
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Admin\SeyfiPage.cshtml.g.cs
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Admin\GenreUpdate.cshtml.g.cs
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\Admin\MovieCreate.cshtml.g.cs
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\obj\Debug\net5.0\Razor\Views\User\CreateUser.cshtml.g.cs
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\Seyfi\source\repos\MovieApp\MovieApp.Web\bin\Debug\net5.0\xunit.core.dll

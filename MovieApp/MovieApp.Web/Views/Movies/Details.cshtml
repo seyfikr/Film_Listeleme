@@ -3,30 +3,21 @@
 <div class="card">
 	<div class="row">
 		<div class"col-md-3">
-			
-			<img src="/img/@Model.ImageUrl"  class="card-img " />
-				
+
+			<img src="/img/@Model.ImageUrl" class="card-img " />
+
 		</div>
 		<div class="col-md-9">
 			<div class="card-body">
-				<h5 class="card-title"> @Model.Title
-					<p class="card-text">@Model.Description</p>
-				@* 	@if (Model.Players != null)
-					{
-						<p>
-							<ul>
-								@foreach (var item in Model.Players)
-								{
-									<li> @item</li>
-								}
-							</ul>
-						</p>
-					} *@
-					
+				<h5 class="card-title">
+					@Model.Title
+					<p class="card-text">@Html.Raw(Model.Description)</p>
+
+
 				</h5>
 
 			</div>
-			
+
 		</div>
 	</div>
 </div>
